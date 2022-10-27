@@ -42,3 +42,5 @@ Below are the results to the two-part analysis of this repository. First, 'Data 
     ![attempt_three](https://user-images.githubusercontent.com/107289345/198415851-4b044c23-c389-4644-89fb-1695dca97cd1.png)
 
 ## Summary
+  
+  In summary, the overall results were okay when using the deep learning model. However because this dataset is not overly complex we could use the Random Forest classifier. I would recommend Random Forest because it could be useful when it comes to outliers, especially in the ASK_AMT column. It could also be helpful when it comes to asking whether or not any other classifiers are of any importance to the overall outcome. 
